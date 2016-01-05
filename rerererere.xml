@@ -1,0 +1,9 @@
+<suite name="Suite">
+  <test name="Test of testng">
+    <classes>
+      
+    <class name="testtprog.goggle"/>
+      <class name="testtprog.gmail"/>
+    </classes>
+  </test> 
+</suite>

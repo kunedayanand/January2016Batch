@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27491" started-at="2016-01-05T08:41:48Z" finished-at="2016-01-05T08:42:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27491" started-at="2016-01-05T08:41:48Z" finished-at="2016-01-05T08:42:15Z">
+      <class name="jan5.gridprogram1">
+        <test-method status="PASS" signature="logintest()[pri:0, instance:jan5.gridprogram1@17ff759]" name="logintest" duration-ms="27444" started-at="2016-01-05T14:11:48Z" finished-at="2016-01-05T14:12:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+      </class> <!-- jan5.gridprogram1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
